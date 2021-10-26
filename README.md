@@ -1,5 +1,5 @@
 # ADT-Robot
-Homework assignment where I implemented a data type that represents a simplified robot
+A homework assignment where I implemented a data type that represents a simplified robot
 
 In this assigment I provided two implentations for a simplified ADT for a robot. 
 The two implementations use different data structures, but implement the same ADT.
